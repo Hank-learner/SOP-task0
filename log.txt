@@ -32,3 +32,10 @@ Answer for the question: CHICKEN
 
 Reason:
 Similar to Adam and Eve, a male chicken and a female chicken was created by God at first. They did not disobey him and the hen laid an egg and the process continued thereafter. So, the chicken came first. 
+
+$git checkout subramanian_vv
+$git merge answer
+Merges the log.txt file from answer branch to subramanian_vv branch
+
+$git commit -am ""
+Saves the changes made

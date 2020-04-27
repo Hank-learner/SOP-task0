@@ -28,7 +28,7 @@ Creates two branches
 $git checkout answer
 Opens the new branch
 
-Answer for the question: EGG
+Answer for the question: CHICKEN
 
 Reason:
 Similar to Adam and Eve, a male chicken and a female chicken was created by God at first. They did not disobey him and the hen laid an egg and the process continued thereafter. So, the chicken came first. 

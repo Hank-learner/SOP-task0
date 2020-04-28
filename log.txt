@@ -14,3 +14,39 @@ Adds the file to the branch
 
 $ git commit -m "message"
 Commits the changes made
+
+REASON:
+The eggs in general (as in question), not "chicken eggs" existed long before chickens were developed. Egg laying animals existed way before chickens came about. With regards to chicken egg, a theory suggests that the present day chicken evolved from a primitive species gradually. So, the answer is egg technically.
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+~
+log.txt[+] [dos] (00:50 29/04/2020)                                                                                                                                                     18,1 All
+-- INSERT --
+

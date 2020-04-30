@@ -31,4 +31,12 @@ $ git branch <> --> Creating new branch
 $ git merge <> --> Merging branches
 
 
+$ git mv log.txt rajath_ramana.txt --> Renaming file
+
+
+$ git push -u origin <> --> pushing the branch into the remote
+
+
+
+
 

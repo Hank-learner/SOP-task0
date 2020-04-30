@@ -1,0 +1,42 @@
+$ git clone https://github.com/RajTS05/SOP-task0.git -->Clone the forked repos 
+
+
+$ cd SOP-task0/  --> Move into the folder
+
+
+$ git branch rajath_ramana  --> New branch created
+
+
+$ git checkout rajath_ramana -->Switch to the newly created branch
+
+
+$ touch log.txt  --> Creation of new text file
+
+
+$ start log.txt --> Open the file
+
+
+$ git add . --> Add all the files
+
+
+$ git commit -m "<>"  --> Committing the added files
+
+
+$ git checkout -->  Switching branches
+
+
+$ git branch <> --> Creating new branch
+
+
+$ git merge <> --> Merging branches
+
+
+$ git mv log.txt rajath_ramana.txt --> Renaming file
+
+
+$ git push -u origin <> --> pushing the branch into the remote
+
+
+
+
+

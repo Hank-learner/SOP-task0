@@ -1,0 +1,17 @@
+$ git clone https://github.com/RajTS05/SOP-task0.git -->Clone the forked repos 
+
+
+$ cd SOP-task0/  --> Move into the folder
+
+
+$ git branch rajath_ramana  --> New branch created
+
+
+$ git checkout rajath_ramana -->Switch to the newly created branch
+
+
+$ touch log.txt  --> Creation of new text file
+
+
+$ start log.txt --> Open the file
+

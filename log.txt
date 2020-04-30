@@ -15,3 +15,20 @@ $ touch log.txt  --> Creation of new text file
 
 $ start log.txt --> Open the file
 
+
+$ git add . --> Add all the files
+
+
+$ git commit -m "<>"  --> Committing the added files
+
+
+$ git checkout -->  Switching branches
+
+
+$ git branch <> --> Creating new branch
+
+
+$ git merge <> --> Merging branches
+
+
+

@@ -42,7 +42,6 @@ $ git status
 $ git add -A
 $ git status
 $ git checkout explanation
-<<<<<<< HEAD
 
 Explaination:
 	Basically, many, many moons ago there was a chicken-like bird.
@@ -62,5 +61,4 @@ $ git status
 $ git merge one_word
        [git merge [alias]/[branch]:
 	merge a remote branch into your current branch to bring it up to date]
-=======
->>>>>>> one_word
+

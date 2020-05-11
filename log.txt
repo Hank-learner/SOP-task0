@@ -1,0 +1,44 @@
+$ git clone https://github.com/Yamini584/SOP-task0.git
+         [ git clone [url] :
+	    retrieve an entire repository from a hosted location via URL]
+
+$ cd SOP-task0
+        [To change to other folder]
+
+$ git status
+        [git status:
+	show modiﬁed ﬁles in working directory, staged for your next commit]
+
+$ git branch YAMINI_KANDREGULA
+       [git branch [branch-name]:
+	create a new branch at the current commit]
+
+$ git checkout YAMINI_KANDREGULA
+       [git checkout :
+	switch to another branch and check it out into your working directory]
+
+$ touch log.txt
+        using touch touch newFile.txt only creates in git bash 
+
+$ git commit -m "THIS IS A  LOG.TXT FILE"
+       [git commit -m “[descriptive message]”:
+	 commit your staged content as a new commit snapshot]
+
+$ git add -A
+       [git add [file]:
+	 add a ﬁle as it looks now to your next commit (stage)]
+
+$ git status
+$ git add -A
+$ git status
+$ git branch one_word
+$ git branch explanation
+$ git branch
+$ git checkout one_word
+
+
+Answer:"Egg"
+$ git status
+$ git add -A
+$ git status
+$ git checkout explanation

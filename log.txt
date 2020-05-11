@@ -18,6 +18,8 @@ $ git checkout YAMINI_KANDREGULA
 	switch to another branch and check it out into your working directory]
 
 $ touch log.txt
+        using touch touch newFile.txt only creates in git bash 
+
 $ git commit -m "THIS IS A  LOG.TXT FILE" 
        [git commit -m “[descriptive message]”:
 	 commit your staged content as a new commit snapshot]
@@ -40,6 +42,7 @@ $ git status
 $ git add -A
 $ git status
 $ git checkout explanation
+<<<<<<< HEAD
 
 Explaination:
 	Basically, many, many moons ago there was a chicken-like bird.
@@ -59,3 +62,5 @@ $ git status
 $ git merge one_word
        [git merge [alias]/[branch]:
 	merge a remote branch into your current branch to bring it up to date]
+=======
+>>>>>>> one_word
